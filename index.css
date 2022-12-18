@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: 'Smythe';
-    font-style: normal;
+    color: #065F46;
 } 
 header{
     background-image: url('./background.png');
